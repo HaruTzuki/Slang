@@ -69,7 +69,7 @@ In this version we do not support accessability modifiers (public, private etc);
 | `first(string)` | Returns the first letter of string |
 | `string + string` | Returns concatenated string |
 | `len(string)` | Returns the length of the string |
-| `atoi(string)` | Converts a string to `int` | 
+| `Atoi(string)` | Converts a string to `int` | 
 
 
 ### Arrays
